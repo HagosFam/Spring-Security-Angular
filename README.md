@@ -1,2 +1,2 @@
 # Spring-Security-Angular
-I designed this application for demonstration of spring security and angular security.
+Simple application developed with spring boot + spring security + angular 
